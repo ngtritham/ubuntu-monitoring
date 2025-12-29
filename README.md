@@ -10,3 +10,6 @@ Prometheus + Grafana configs to minitor my Ubuntu
 ```bash
 docker compose up -d
 ```
+
+- Grafana Dashboard: `http://localhost:3000/`
+- Prometheus UI: `http://localhost:9090/`
